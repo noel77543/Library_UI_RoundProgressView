@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundProgressView">
+        <attr name="roundProgressViewOutsideLineColor" format="reference|color" />
+        <attr name="roundProgressViewAnimationTime" format="reference|dimension" />
+        <attr name="roundProgressViewOutsideLineWidth" format="reference|dimension" />
+        <attr name="roundProgressViewInnerCircleColor" format="reference|color" />
+        <attr name="roundProgressViewInnerCircleProgressTextColor" format="reference|color" />
+        <attr name="roundProgressViewInnerCircleProgressTextSize" format="reference|dimension" />
+        <attr name="roundProgressViewProgressCircleColor" format="reference|color" />
+    </declare-styleable>
+</resources>
